@@ -1,0 +1,25 @@
+## THE EQUIPMENT
+Ludo consists of a circle board with four different colored bases in each corner. The first colored space
+outside of each base is the start position. A path leads clockwise around the board returning to a path with
+the same color as the base, then to the home column, which leads to the center home column. There are
+four different colored sets of playing pieces that start off in their matching bases. Each set consists of 4
+playing pieces. The dice is used for to include pawn into the game or to govern the movement of the
+pawns.
+
+ ## How to Play 
+ 1.Ludo player path
+ 2.Ludo Home.
+ 3.Start area.
+ 4.Move from star ng square, clockwise around the perimeter.
+ 5.No res ng squares.
+ 6.Player Iden ca on colour.
+ ## Game Rules 
+ 1.Four pieces are placed in the start area of their colour.
+ 2.Throw a single die.
+ 3.First throw a six or one to move.
+ 4.Player moves a piece forward 1 to 6 squares.
+ 5.Six results in another turn.
+ 6.Player can’t move, pass to next player.
+ 7.Captured and returns to the star ng area.
+ 8.No doubling rules.
+ 9.Advance to Home Square.
